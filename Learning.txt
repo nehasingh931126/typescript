@@ -1,0 +1,7 @@
+Cover strings to Numbers :  +"23": =======> 23
+document.getElementById("num1")!: Here the Exclamation mark say that we are sure that we will get an getElementById
+
+If you know that the element is going to be the Input element do typecasting
+document.getElementById("num1")! as HTMLInputElement;
+
+
